@@ -6,6 +6,10 @@ AI enabled Supply Chain solution for Air Cargo business in transportation indust
 
 ### Epic 1 Lightning Reflex
 
+IBM enables CARGO airline to proactively address concerns due to flight interruption. 
+
+https://youtu.be/-EUM4B5RQz4
+
 #### Actors
 - Li | Shipper for a Pharmacutical company
 - Al | Shipper for a eletrioncial company
