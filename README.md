@@ -36,9 +36,9 @@ https://youtu.be/-EUM4B5RQz4
   
 ### Epic 2 Power Forwarder
 
-IBM helps CARGO airline connecting with its freight forwarder customers and simplify their processes in tracking and quoting.
+IBM helps CARGO airline connecting with its freight forwarder customers and simplifing the tracking and quoting process.
 
-### Actors
+#### Actors
 
 - Ray | Associate of Acme Freight Forwarder 
 - Liz | Associate of CARGO Airline
@@ -55,11 +55,10 @@ IBM helps CARGO airline connecting with its freight forwarder customers and simp
 1. Ray receives the suggested break down of AWB and pricing matrix for each AWB by ship date and arriving date
 1. Ray removed an item from an AWB to see if she can get better pricing
 1. Ray thinks there might be a better way to pricing this AWB since it has an odd shap but she believe it would still fit in an ULD
-1. Ray save the quote and click on "Chat" to chat with an Etihad associate about this quote
+1. Ray save the quote and click on "Chat" to chat with a CARGO airline associate about this quote
 1. Liz received the chat request with the Quote number
 1. Liz opens the quote in her call center application
-1. Ray and Liz's chat...
+1. Ray and Liz chat...
 1. Liz upated the quote to reflect what Liz described
 1. Ray sees the updated quote and is happy
-1. Ray converted the quotes to orders
-
+1. Ray converts the quotes to orders
