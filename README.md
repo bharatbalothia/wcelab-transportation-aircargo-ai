@@ -2,6 +2,35 @@
 
 AI enabled Supply Chain solution for Air Cargo business in transportation industry
 
+## Systems In Vision
+
+1. Shipper Mobile / Web App.  
+*An AI enabled mobile and web application that allows shippers to*
+    - Create, view, and update a booking placed directly with CARGO Airline
+    - Track and trace an CARGO Airling booking
+    - View invoices
+    - Connect with CARGO Airline via chat or voice
+1. Power Forwarder Platform.  
+*A freight forwarder platform provided by CARGO Airline to enhance, simplify, and standardize forwarders' capability*
+    1. Shipper Mobile / Web App.  
+    *A simplified version of CARGO Airline Shipper Mobile / Web App reskined for forwarders*
+    1. Power Forwarder Web App.  
+    *An AI enabled web application that provides forwarders the capability to*
+        - Create, view, update, and track bookings 
+        - Aggregate shipper orders into booking quote to shop with CARGO Airline (other airlines in the future)
+        - Track and trace aggregated CARGO Airline bookings
+    1. Forwarder Operation Mobile App.  
+    *A mobile focused app that provides opertional process and tracking*
+        - Receive packages from shipper
+        - Track packages in stagging area
+        - Record package delivery to CARGO Airline
+1. CARGO Airline Opertaion Assistant.  
+*An AI operation module to assist CARGO Airline agents in*
+    - Create, view, and update bookings
+    - Query and view cargo availability
+    - Track and trace cargo shipments (AWB)
+    - Proactively monitor and respond to cargo fulfillment interruption
+
 ## Epics
 
 ### Epic 1 Lightning Reflex
@@ -18,10 +47,11 @@ https://youtu.be/-EUM4B5RQz4
 
 #### Plot
 1. Li uses ACME app to ship a package of medicine
-    1. Li could use IBM team's technology to input the package dimension by taking a picture
-    1. The package can be part of the shipment data
+    1. Li uses IBM team's technology to input the package dimension by taking a picture
+    1. The picture is part of the shipment data
 1. Al uses ACME website to ship a package of eletronic
-1. Ray uses a CARGO Airline's app to consolidate Li and Al's orders into a freight forward order under one AWB
+1. Ray uses a CARGO Airline's Power Forwarder to consolidate Li and Al's orders into a freight forward order
+1. ACME Freight Forwarder uses CARGO Airline's Power Forwarder application to receive packages from Li and Al
 1. ACME Freight Forwarder brings Li and Al's packages to CARGO Airline airport location
 1. CARGO Airline loads Li and Al's packages to a ULD for a flight
 1. the flight is delay due to weather
