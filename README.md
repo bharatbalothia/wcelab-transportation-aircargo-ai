@@ -68,6 +68,8 @@ https://youtu.be/-EUM4B5RQz4
 
 IBM helps CARGO airline connecting with its freight forwarder customers and simplifing the tracking and quoting process.
 
+Draft video: https://youtu.be/D_tlxq97jc4
+
 #### Actors
 
 - Ray | Associate of Acme Freight Forwarder 
