@@ -4,27 +4,32 @@ AI enabled Supply Chain solution for Air Cargo business in transportation indust
 
 ## Systems In Vision
 
-1. Shipper Mobile / Web App. An AI enabled mobile and web application that allows shippers to:
-    - Create, view, and update a cargo order placed directly with CARGO Airline
-    - Track and trace an CARGO Airline cargo order
+1. Shipper Mobile / Web App.  
+*An AI enabled mobile and web application that allows shippers to*
+    - Create, view, and update a booking placed directly with CARGO Airline
+    - Track and trace an CARGO Airling booking
     - View invoices
     - Connect with CARGO Airline via chat or voice
-1. Power Forwarder Platform. A freight forwarder platform provided by CARGO Airline to enhance, simplify, and standardize forwarders' capability.
-    1. Shipper Mobile / Web App. A simplified version of CARGO Airline Shipper Mobile / Web App reskined for forwarders
-    1. Power Forwarder Web App. An AI enabled web application that provides forwarders the capability to: 
-        - Create, view, update, and track shipper orders 
-        - Aggregate shipper orders into quotes to shop with CARGO Airline (other airlines in the future)
-        - Track and trace aggregated CARGO Airline cargo orders
-    1. Forwarder Operation Mobile App. Provides opertional process and tracking:
+1. Power Forwarder Platform.  
+*A freight forwarder platform provided by CARGO Airline to enhance, simplify, and standardize forwarders' capability*
+    1. Shipper Mobile / Web App.  
+    *A simplified version of CARGO Airline Shipper Mobile / Web App reskined for forwarders*
+    1. Power Forwarder Web App.  
+    *An AI enabled web application that provides forwarders the capability to*
+        - Create, view, update, and track bookings 
+        - Aggregate shipper orders into booking quote to shop with CARGO Airline (other airlines in the future)
+        - Track and trace aggregated CARGO Airline bookings
+    1. Forwarder Operation Mobile App.  
+    *A mobile focused app that provides opertional process and tracking*
         - Receive packages from shipper
-        - Track package stagging area
+        - Track packages in stagging area
         - Record package delivery to CARGO Airline
-1. CARGO Airline Opertaion Assistant. An AI operation module to assist CARGO Airline agents in:
-    - Create, view, and update cargo orders
-    - Query and view availability
+1. CARGO Airline Opertaion Assistant.  
+*An AI operation module to assist CARGO Airline agents in*
+    - Create, view, and update bookings
+    - Query and view cargo availability
     - Track and trace cargo shipments (AWB)
-    - Proactively monitor and respond to shipment fulfillment interruption
-
+    - Proactively monitor and respond to cargo fulfillment interruption
 
 ## Epics
 
