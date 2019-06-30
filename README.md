@@ -37,7 +37,7 @@ AI enabled Supply Chain solution for Air Cargo business in transportation indust
 
 IBM enables CARGO airline to proactively address concerns due to flight interruption. 
 
-https://youtu.be/-EUM4B5RQz4
+https://youtu.be/qFWEMr6xOpU
 
 #### Actors
 - Li | Shipper for a Pharmacutical company
@@ -56,13 +56,14 @@ https://youtu.be/-EUM4B5RQz4
 1. CARGO Airline loads Li and Al's packages to a ULD for a flight
 1. the flight is delay due to weather
 1. Liz receives notificaiton about flight delay
-1. Liz utilizes Cargo Airline AI to assess delay impact
-    1. Most AWB will arrive few hours late
-    1. Few AWB will miss connection
-    1. Few AWB have express/urgent service
-1. Liz reviews OMS & AI's impact resolution
-1. Liz changes one resolution
-1. OMS & AI process resolutons
+1. Liz utilizes SCI to overview the shipment statuses
+    1. Liz uses dashboard to get an overview of the statuses
+    1. Liz drill down into a client's shipment
+    1. Liz wants to provide customer a better alternatie
+    1. Liz works with AI to list the options
+    1. Liz, AI, and Ray conference about the resultion
+    1. SCI AI executes the agreed resultion
+
   
 ### Epic 2 Power Forwarder
 
